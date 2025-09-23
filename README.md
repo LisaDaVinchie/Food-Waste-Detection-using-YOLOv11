@@ -1,6 +1,6 @@
 # Food Waste Detection in Canteen Plates using YOLOv11
 
-This is the open-source code for the article "Food Waste Detection in Canteen Plates using YOLOv11" wrote by the students João Ferreira and Paulino Cerqueira and the corresponding author Jorge Ribeiro.
+This is the open-source code for the article [Food Waste Detection in Canteen Plates using YOLOv11](https://www.mdpi.com/2076-3417/15/13/7137) (Published in MDPI) wrote by the students João Ferreira and Paulino Cerqueira and the corresponding author Jorge Ribeiro.
 The three authors of this article are from the Polytechnic Institute of Viana do Castelo (https://www.ipvc.pt)
 
 ## Screenshots
